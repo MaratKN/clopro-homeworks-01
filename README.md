@@ -30,6 +30,7 @@ Resource Terraform для Yandex Cloud:
 - [Compute Instance](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/compute_instance).
 
 ![alt text](https://github.com/MaratKN/clopro-homeworks-01/blob/main/1.png)
+![alt text](https://github.com/MaratKN/clopro-homeworks-01/blob/main/11.png)
 ![alt text](https://github.com/MaratKN/clopro-homeworks-01/blob/main/2.png)
 ![alt text](https://github.com/MaratKN/clopro-homeworks-01/blob/main/3.png)
 
